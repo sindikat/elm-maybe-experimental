@@ -2,7 +2,7 @@
     "version": "1.0.0",
     "summary": "Testing ground for experimental Maybe functions",
     "repository": "https://github.com/sindikat/elm-maybe-experimental.git",
-    "license": "BSD3",
+    "license": "CC0",
     "source-directories": [
         "src"
     ],
